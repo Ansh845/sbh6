@@ -318,7 +318,7 @@ body{
     font-size: 50px;
 }
 .about_me{
-    width: 379px;
+    width: 365px;
     margin-left: 0.5cm;
     margin-right: 0cm;
     padding: 0cm;
@@ -363,8 +363,8 @@ div{
     border: black 4px solid;
     overflow: auto;
     margin-bottom: 1cm;
-    height: 450px;
-    width: 379px;
+    height: 500px;
+    width: 365px;
     padding-bottom: 1cm;
     margin-left: 0.30cm;
     margin-right: 4cm;
@@ -391,8 +391,8 @@ div{
     border: black 4px solid;
     overflow: auto;
     margin-bottom: 1cm;
-    height: 480px;
-    width: 379px;
+    height: 500px;
+    width: 365px;
     padding-bottom: 1cm;
     margin-left: 0.30cm;
     margin-right: 4cm;
@@ -407,8 +407,8 @@ div{
     border: black 4px solid;
     overflow: auto;
     margin-bottom: 1cm;
-    height: 450px;
-    width: 379px;
+    height: 500px;
+    width: 365px;
     padding-bottom: 1cm;
     margin-left: 0.30cm;
     margin-right: 4cm;
@@ -428,7 +428,7 @@ div{
     overflow: auto;
     margin-bottom: 1cm;
     height: 410px;
-    width: 379px;
+    width: 365px;
     padding-bottom: 1cm;
     margin-left: 0.30cm;
     margin-right: 4cm;
